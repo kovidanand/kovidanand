@@ -1,4 +1,6 @@
-# Hi, I'm Kovid Anand 👋
+## Kovid Anand — Product & AI Builder
+Designing PRDs, prototyping interfaces, and shipping full-stack AI tools from 0 → 1.
+
 
 ### 👨‍💻 Who am I?
 I'm a **Data Science undergraduate** at **SRM Institute of Science and Technology**, focused on the intersection of **Product Management, Applied AI, and Data Analytics**. 
