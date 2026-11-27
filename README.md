@@ -1,9 +1,9 @@
 # Hi, I'm Kovid Anand 👋
 
 ### 👨‍💻 Who am I?
-I'm a **Data Science undergraduate (BCA)** at **SRM Institute of Science and Technology**, focused on the intersection of **Product Management, Applied AI, and Data Analytics**. 
+I'm a **Data Science undergraduate** at **SRM Institute of Science and Technology**, focused on the intersection of **Product Management, Applied AI, and Data Analytics**. 
 
-I enjoy turning complex data and AI workflows into clean, usable products—from writing PRDs and prototyping interfaces to deploying full-stack web apps. I'm also a published researcher (ICASSIPT-2026) and currently targeting **Associate Product Manager (APM), AI Product Manager, Forward Deployed PM (FDPM), and Data/Business Analyst** roles.
+I enjoy turning complex data and AI workflows into clean, usable products, from writing PRDs and prototyping interfaces to deploying full-stack web apps. I'm also a published researcher (ICASSIPT-2026) and currently targeting **Associate Product Manager (APM), AI Product Manager, Forward Deployed PM (FDPM), and Data/Business Analyst** roles.
 
 ---
 
@@ -45,8 +45,18 @@ I enjoy turning complex data and AI workflows into clean, usable products—from
 
 ---
 
-### 📫 How to Reach Me
-* **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-* **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **Medium:** [medium.com/@your-handle](https://medium.com/@your-handle)
+### 📫 Connect With Me
+
+Open to **Associate Product Manager (APM), AI Product Manager, Forward Deployed PM, and Data/Business Analyst** opportunities, as well as collaborations on applied AI and product builds.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kovidanand05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://kovidanand.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:kovidanand05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
